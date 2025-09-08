@@ -18,7 +18,7 @@ The dataset used for this project was sourced from **[Kaggle] https://www.kaggle
 | File Name                  | Description |
 |----------------------------|-------------|
 | `ZeptoDatabaseSchema.png`  | ERD of the database showing table structure |
-| `zepto.sql`                | PostgreSQL dump file with tables and sample data |
+| `Zepto_v2`                | CSV file containing sample data |
 | `Zepto_SQL_Analysis_Queries` | SQL queries for data exploration and analysis |
 | `README.md`                | Project documentation |
 
