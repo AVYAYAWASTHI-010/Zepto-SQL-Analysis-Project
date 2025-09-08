@@ -27,7 +27,7 @@ The dataset used for this project was sourced from **[Kaggle] https://www.kaggle
 ## 🗂️ Database Schema
 Below is the schema diagram representing the structure of the Zepto database:
 
-![Database Schema] ()
+![Zepto Database Schema](https://github.com/AVYAYAWASTHI-010/Zepto-SQL-Analysis-Project/blob/main/ZeptoDatabaseSchema.jpg)
 
 ---
 
@@ -56,7 +56,13 @@ Here are some of the business questions answered in this project:
 ## 🚀 How to Run This Project
 Follow these steps to set up and run the analysis:
 
-### 1️⃣ Clone the repository
 ```bash
+# 1️⃣ Clone the repository
 git clone https://github.com/AVYAYAWASTHI-010/Zepto-SQL-Analysis.git
 cd Zepto-SQL-Analysis
+
+# 2️⃣ Import the database into PostgreSQL
+\i zepto.sql
+
+# 3️⃣ Run the analysis queries
+\i Zepto_SQL_Analysis_Queries
